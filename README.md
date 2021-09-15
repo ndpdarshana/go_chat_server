@@ -2,5 +2,9 @@
 tcp chat server written in Gilang
 
 ## build/install project
-```go build
-```./chatService
+```
+go build
+```
+```
+./chatService
+```

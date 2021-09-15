@@ -8,3 +8,8 @@ go build
 ```
 ./chatService
 ```
+
+## connect clients
+```
+telnet localhost 8080
+```
